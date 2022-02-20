@@ -1,0 +1,865 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="SELECTIVE" />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="8d01c9e3-fcc8-4ba7-9b78-d9a2be23693f" name="Changes" comment="">
+      <change afterPath="$PROJECT_DIR$/../../BookAndAuthor/BookAndAuthor.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../DjangoProj01/sampleDj/.idea/sampleDj.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Docs1/BookAndAuthor/BookAndAuthor.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Docs1/BookAndAuthor/src/main/java/Book.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../ExerciseOneToThree/.idea/workspace.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../New folder (2)/EmployeeSalary/EmployeeSalary.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../New folder (2)/PerimeterAndArea/PerimeterAndArea.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../New folder (2)/RankingPoints/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../New folder (2)/RankingPoints/RankingPoints.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/compiler.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/jarRepositories.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/pom.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/BasketballTeam.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/FootballTeam.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/ITeam.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/Main.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/resources/results.csv" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/resources/teams.csv" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/BasketballTeamTest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/FootballTeamTest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../New folder/AuthorAndBook/src/main/java/Author.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../New folder/AuthorAndBook/src/main/java/Book.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../New folder/AuthorAndBook/src/main/java/InMemoryLibraryServiceImpl.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../New folder/AuthorAndBook/src/main/java/LibraryService.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../New folder/AuthorAndBook/src/main/java/Main.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../New folder/AuthorAndBook/src/main/java/SortByAverageRating.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../New folder/AuthorAndBook/src/main/java/SortByPublicationYear.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../New folder/AuthorAndBook/src/main/java/SortByTitle.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../New folder/AuthorAndBook/src/main/java/SortField.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../New folder/AuthorAndBook/src/main/java/SortOrder.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../New folder/AuthorAndBook/src/main/resources/Books.csv" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../New folder/AuthorAndBook/src/test/java/InMemoryLibraryServiceImplTest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../New folder/flask_application/.idea/flask_application.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../New folder/flask_application/Flask_Curd_operation/.idea/Flask_Curd_operation.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../New folder/flask_application/flask_application/.idea/flask_application.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../New folder/flask_application/new_flask_curd_persist/.idea/new_flask_curd_persist.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../New folder/flask_application/orm_crud/.idea/orm_crud.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../New folder/flask_web_restapi/.idea/flask_web_restapi.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../New folder/model_relationships/.idea/model_relationships.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Proj/Brokarage-Platform/.idea/Brokarage-Platform.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Proj/CRUD/.idea/CRUD.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Proj/New Django Project/dj_concepts/.idea/dj_concepts.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Proj/YT-Django-Celery-Series-email-example-master/.idea/YT-Django-Celery-Series-email-example-master.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Proj/create-pdf-with-python-fpdf2-main/.idea/create-pdf-with-python-fpdf2-main.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Proj/django-personal-website-master/.idea/django-personal-website-master.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Proj/flask_rest_multimedia_demo/.idea/flask_rest_multimedia_demo.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Proj/sample_django_projects/bankinfo/.idea/bankinfo.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Proj/sample_django_projects/ecom/.idea/ecom.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Proj/sample_rest_mvc_app/.idea/sample_rest_mvc_app.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../SMART-MONITOR/.idea/SMART-MONITOR.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../SMART-MONITOR/smart-monitor-ce/.idea/smart-monitor-ce.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../crud1/.idea/crud1.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../dj_concepts/.idea/dj_concepts.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../dj_stuff/.idea/dj_stuff.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../django-ecommerce-master/.idea/django-ecommerce-master.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../ecom/.idea/ecom.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../ecom/ecom/.idea/ecom.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../functions.iml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../.gitignore" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../.importlinter" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Dockerfile" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Pipfile" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Pipfile.lock" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../README.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../adserver/__init__.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../adserver/admin.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../adserver/apps.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../adserver/media.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../adserver/migrations/0001_initial.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../adserver/migrations/0002_auto_20200721_1108.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../adserver/migrations/0003_auto_20200818_1354.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../adserver/migrations/0004_auto_20210303_1518.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../adserver/migrations/__init__.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../adserver/models.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../adserver/serializers.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../adserver/tasks.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../adserver/tests/__init__.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../adserver/tests/fixtures/invalid_asset.mp4" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../adserver/tests/fixtures/valid_asset.mp4" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../adserver/tests/fixtures/valid_vertical_asset.mp4" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../adserver/tests/test_api.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../adserver/tests/test_media.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../adserver/tests/test_views.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../adserver/urls.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../adserver/views.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../analytics/__init__.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../analytics/analytics_utils.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../analytics/apps.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../analytics/common.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../analytics/contact/__init__.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../analytics/contact/base_contact_model.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../analytics/contact/statistical_contact_model.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../analytics/migrations/0001_initial.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../analytics/migrations/__init__.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../analytics/models.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../analytics/outbound/__init__.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../analytics/outbound/advertima.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../analytics/outbound/advertima_interface.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../analytics/reporting/__init__.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../analytics/reporting/contact_report.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../analytics/reporting/daily_detail_report.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../analytics/reporting/playout_report.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../analytics/reporting_population/__init__.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../analytics/reporting_population/import_advertima_data.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../analytics/reporting_population/import_playouts_from_cms.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../analytics/reporting_population/populate_actual_contacts_playouts.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../analytics/reporting_population/populate_planned_contacts_playouts.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../analytics/reporting_population/reporting_common.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../analytics/reporting_population/sql/__init__.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../analytics/reporting_population/sql/q_upsert_reports.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../analytics/reporting_population/sql/q_upsert_reports.sql" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../analytics/serializers.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../analytics/tasks/__init__.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../analytics/tasks/report_tasks.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../analytics/tests/__init__.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../analytics/tests/apitests/__init__.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../analytics/tests/apitests/test_report.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../analytics/tests/integration/test_advertima.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../analytics/tests/unittests/__init__.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../analytics/tests/unittests/advertima_service_mock.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../analytics/tests/unittests/test_advertima_service.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../analytics/tests/unittests/test_create_planned_playouts.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../analytics/tests/unittests/test_import_advertima_data.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../analytics/tests/unittests/test_populate_planned_contacts_playouts.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../analytics/tests/unittests/test_reporting_common.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../analytics/urls.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../analytics/views.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../application/__init__.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../application/apps.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../application/migrations/0001_initial.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../application/migrations/0002_auto_20200814_0908.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../application/migrations/0003_auto_20200818_1354.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../application/migrations/0004_assessmentrequest_thumbnail_uri.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../application/migrations/0004_auto_20200825_1516.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../application/migrations/0005_merge_20200901_1113.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../application/migrations/0006_auto_20200915_1520.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../application/migrations/0007_hitratecoefficients.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../application/migrations/0008_auto_20201021_1511.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../application/migrations/0009_auctiongrant_index.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../application/migrations/0010_auto_20210114_0931.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../application/migrations/0011_auto_20210303_1518.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../application/migrations/0012_auto_20210607_1231.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../application/migrations/__init__.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../application/models.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../application/outbound/allocations/__init__.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../application/outbound/allocations/allocation_repo_django_models.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../application/serializers.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../application/statistical_models.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../application/tests/__init__.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../application/tests/given.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../bf_template.yml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../brokerage/__init__.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../brokerage/asgi.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../brokerage/celery.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../brokerage/middleware.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../brokerage/settings/__init__.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../brokerage/settings/base.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../brokerage/settings/experimental.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../brokerage/settings/integration.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../brokerage/settings/production.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../brokerage/settings/test.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../brokerage/settings/unittest.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../brokerage/settings/unittest_postgres.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../brokerage/settings/utnomig.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../brokerage/settings/wgi_local.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../brokerage/urls.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../brokerage/views.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../cloudbuild.yaml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../cloudbuild_tag.yaml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../common/__init__.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../common/admin.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../common/allocation_models.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../common/apps.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../common/baseplatform.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../common/config.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../common/consumers.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../common/decorators.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../common/exceptions.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../common/helpers.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../common/initial_data.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../common/migrations/0001_initial.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../common/migrations/0002_auto_20200721_1108.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../common/migrations/0003_insert_initial_config_data.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../common/migrations/0004_insert_initial_schedules.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../common/migrations/0005_auto_20200818_1354.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../common/migrations/0006_insert_late_arrival_config.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../common/migrations/0007_insert_requests_timeouts.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../common/migrations/0008_insert_feature_dictionary.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../common/migrations/0009_insert_cms_cleanup_tasks.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../common/migrations/0010_insert_hitrate_function_commit_config.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../common/migrations/0011_insert_auction_config.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../common/migrations/0012_insert_adjustment_rounds.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../common/migrations/0013_auto_20210303_1518.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../common/migrations/0014_insert_email_template.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../common/migrations/0015_auto_20210607_1231.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../common/migrations/0016_insert_set_password_templates.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../common/migrations/__init__.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../common/models/__init__.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../common/models/aaas.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../common/models/fundamentals.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../common/mvptools.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../common/outbound/__init__.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../common/platform.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../common/pricing.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../common/serializers.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../common/signals.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../common/tests/__init__.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../common/tests/test_domain_visibility.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../common/tests/test_helpers.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../common/tests/test_models.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../common/tests/test_platform_user_usecase.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../common/tests/test_pricing.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../common/tests/test_regimen_config.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../common/tests/test_repo_abstraction.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../common/tests/test_time_utils.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../common/tests/tools/__init__.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../common/tests/tools/basics.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../common/tests/tools/given.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../common/tools/__init__.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../common/tools/caller.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../common/tools/collections.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../common/tools/custom_sql.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../common/tools/datetools.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../common/tools/logging.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../common/tools/tests/__init__.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../common/tools/tests/test_date_periods.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../common/tools/tests/test_typed_df.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../common/tools/time_utils.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../common/tools/timer.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../common/usecases/__init__.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../common/usecases/legal_entity.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../common/usecases/platform.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../common/usecases/platformuser.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../common/usecases/sales_channel.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../create_bf_client.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../dsp/__init__.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../dsp/admin.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../dsp/apps.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../dsp/auctions/__init__.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../dsp/auctions/sql/__init__.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../dsp/auctions/sql/q_allocate_from_grants.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../dsp/auctions/sql/q_allocate_from_grants.sql" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../dsp/auctions/sql/q_cap_auction_grants_by_remaining_budget.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../dsp/auctions/sql/q_cap_auction_grants_by_remaining_budget.sql" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../dsp/auctions/sql/q_cap_auction_grants_test_query.sql" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../dsp/auctions/sql/q_create_auction_matrix.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../dsp/auctions/sql/q_create_auction_matrix.sql" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../dsp/auctions/sql/q_update_hourly_free_totals_from_auctions.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../dsp/auctions/sql/q_update_hourly_free_totals_from_auctions.sql" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../dsp/auctions/sql/q_update_hourly_frees_from_auctions.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../dsp/auctions/sql/q_update_hourly_frees_from_auctions.sql" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../dsp/auctions/sql/q_update_hourly_totals_from_auctions.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../dsp/auctions/sql/q_update_hourly_totals_from_auctions.sql" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../dsp/campaign_serializers.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../dsp/campaign_views.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../dsp/consumers.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../dsp/flight_serializers.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../dsp/flight_views.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../dsp/manage_campaign.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../dsp/migrations/0001_initial.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../dsp/migrations/0002_auto_20200721_1108.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../dsp/migrations/0003_auto_20200818_1354.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../dsp/migrations/0004_auto_20200922_1139.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../dsp/migrations/0005_standingbidorder.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../dsp/migrations/0006_standingbidorder_rnd.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../dsp/migrations/0007_auto_20210322_1343.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../dsp/migrations/0008_auto_20210607_1231.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../dsp/migrations/__init__.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../dsp/models.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../dsp/serializers.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../dsp/sql/__init__.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../dsp/sql/q_find_missing_assets.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../dsp/sql/q_find_missing_assets.sql" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../dsp/tests/__init__.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../dsp/tests/given.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../dsp/tests/test_api_find_available_inventories.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../dsp/tests/test_campaign_serializers.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../dsp/tests/test_models.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../dsp/tests/test_serializers.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../dsp/tests/test_views.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../dsp/urls.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../dsp/usecases.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../hannibal/___README.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../hannibal/__init__.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../hannibal/allocation_based_feedback.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../hannibal/apps.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../hannibal/sql/__init__.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../hannibal/sql/q_select_potential_views_from_allocations.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../hannibal/sql/q_select_potential_views_from_allocations.sql" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../hannibal/tests/__init__.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../hannibal/tests/test_potential_views_from_allos_query.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../integrationtests/README.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../integrationtests/allocation_performance_test.ipynb" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../integrationtests/new_players.csv" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../integrationtests/new_sites.csv" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../integrationtests/test_integration_cingerine.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../integrationtests/test_integration_grassfish.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../integrationtests/test_site_and_player_inventory_update.ipynb" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../interfaces/__init__.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../interfaces/allocations.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../interfaces/forms.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../interfaces/fundamentals.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../interfaces/outbound/__init__.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../interfaces/outbound/assets.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../interfaces/outbound/feedback_service.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../interfaces/outbound/players.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../interfaces/outbound/playouts.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../interfaces/outbound/proof_of_play.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../interfaces/outbound/standard_cms.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../interfaces/platform.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../interfaces/possible_actions/__init__.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../interfaces/possible_actions/campaign.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../interfaces/tools.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../interfaces/typed_df.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../jupyter/Allocation_Adjustments-Variations.ipynb" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../jupyter/Allocation_Adjustments.ipynb" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../jupyter/Allocation_based_feedback.ipynb" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../jupyter/Auction_Matrix.ipynb" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../jupyter/Campaign_API.ipynb" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../jupyter/Campaign_Steering.ipynb" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../jupyter/Clear_Campaign.ipynb" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../jupyter/Contact_Campaign.ipynb" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../jupyter/ExploreNewArchitecture.ipynb" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../jupyter/GrassfishImport_2020-12-12.ipynb" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../jupyter/PROD_CMS_REST_PROD.ipynb" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../jupyter/Platform_Functions.ipynb" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../jupyter/Roundtrip_Main.ipynb" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../jupyter/System_and_Inventory.ipynb" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../jupyter/Test_CMS_REST.ipynb" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../jupyter/Trigger_End_Of_Campaign.ipynb" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../jupyter/__init__.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../jupyter/allocation_reports.ipynb" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../jupyter/httpservice.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../jupyter/init.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../jupyter/init2.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../jupyter/old_stuff/Allocations_meet_Budget_Goal.ipynb" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../jupyter/old_stuff/Allocations_meet_Contact_Goal.ipynb" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../jupyter/old_stuff/Allocations_meet_Frequency_Goal.ipynb" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../jupyter/old_stuff/Bug_Underallocation.ipynb" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../jupyter/old_stuff/CampaignStatus.ipynb" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../jupyter/old_stuff/Execute_Campaigns.ipynb" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../jupyter/old_stuff/Explore_Allocations.ipynb" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../jupyter/old_stuff/Explore_Hannibalino.ipynb" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../jupyter/old_stuff/Exploring_Advertima_Inferface.ipynb" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../jupyter/old_stuff/Exploring_Grassfish.ipynb" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../jupyter/old_stuff/Exploring_Initial_Data.ipynb" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../jupyter/old_stuff/Initial_Stats_Per_Network.ipynb" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../jupyter/old_stuff/InventoryStatus.ipynb" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../jupyter/old_stuff/MediaAgencyScenario.ipynb" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../jupyter/old_stuff/Playout_plausi-Contacts.ipynb" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../jupyter/old_stuff/Playout_plausi.ipynb" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../jupyter/old_stuff/QCreateHourlyAllocations.ipynb" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../jupyter/old_stuff/Regression.ipynb" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../jupyter/old_stuff/Roundtrip.ipynb" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../jupyter/old_stuff/Roundtrip_Initial_Data.ipynb" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../jupyter/old_stuff/Sihlbrugg_Plausi.ipynb" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../jupyter/run_dayload_and_servie_settlements.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../jupyter/run_mock_api.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../jupyter/singular.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../jupyter/test_advanced_rest_service.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../jupyter/tools.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../jupyter/upgrade-to-aaas/ExploreNewArchitecture.ipynb" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../jupyter/upgrade-to-aaas/Upgrade_Migrations.ipynb" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../lint.sh" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../manage.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../marketplace/__init__.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../marketplace/admin.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../marketplace/apitests/__init__.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../marketplace/apitests/support.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../marketplace/apitests/test_anonymous_access.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../marketplace/apitests/test_booking_scenarios.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../marketplace/apps.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../marketplace/data/__init__.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../marketplace/data/contact_predictions.csv" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../marketplace/data/initial_data.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../marketplace/data/initial_stats/README.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../marketplace/data/initial_stats/age_gender_statistic.csv" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../marketplace/data/initial_stats/day_hour_statistic.csv" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../marketplace/data/initial_stats/official/Adtrac_age_gender_statistic.csv" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../marketplace/data/initial_stats/official/Adtrac_day_hour_statistic.csv" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../marketplace/data/initial_stats/official/Adtrac_poi_statistic.csv" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../marketplace/data/initial_stats/official/Spar_age_gender_statistic.csv" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../marketplace/data/initial_stats/official/Spar_day_hour_statistic.csv" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../marketplace/data/initial_stats/official/Spar_poi_statistic.csv" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../marketplace/data/initial_stats/official/TopCC_age_gender_statistic.csv" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../marketplace/data/initial_stats/official/TopCC_day_hour_statistic.csv" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../marketplace/data/initial_stats/official/TopCC_poi_statistic.csv" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../marketplace/data/initial_stats/official/f84bff6c-99ce-11ea-86d1-d0499316d119" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../marketplace/data/initial_stats/poi_statistic.csv" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../marketplace/data/initial_stats/signactive_default_player.csv" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../marketplace/data/reference_data.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../marketplace/data/spar_players.csv" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../marketplace/data/spar_sites.csv" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../marketplace/data/spar_sites_prod.csv" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../marketplace/data/topcc_players.csv" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../marketplace/data/topcc_sites.csv" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../marketplace/data/topcc_sites_prod.csv" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../marketplace/management/__init__.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../marketplace/management/commands/__init__.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../marketplace/management/commands/create_initial_data.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../marketplace/management/commands/create_scenario.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../marketplace/management/commands/list_signals.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../marketplace/management/commands/onboard_publisher.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../marketplace/management/commands/recreate_roles_delete_site_le.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../marketplace/management/commands/upgrade_to_aaas.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../marketplace/middleware.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../marketplace/outbound/__init__.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../marketplace/outbound/allocations/__init__.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../marketplace/outbound/allocations/allocation_repo_base.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../marketplace/outbound/allocations/allocation_repo_django.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../marketplace/outbound/allocations/allocation_repo_django_debug_tools.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../marketplace/outbound/allocations/allocation_strategy/__init__.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../marketplace/outbound/allocations/allocation_strategy/base_allocation_strategy.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../marketplace/outbound/allocations/allocation_strategy/fair_allocation_strategy.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../marketplace/outbound/allocations/allocation_strategy/sql/q_create_hourly_allocations.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../marketplace/outbound/allocations/allocation_strategy/sql/q_create_hourly_allocations.sql" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../marketplace/outbound/allocations/allocation_strategy/sql/q_create_hourly_allocations_sov.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../marketplace/outbound/allocations/allocation_strategy/sql/q_create_hourly_allocations_sov.sql" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../marketplace/outbound/allocations/allocation_strategy/sql/q_get_estimated_contacts_and_price_targeted.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../marketplace/outbound/allocations/allocation_strategy/sql/q_get_estimated_contacts_and_price_targeted.sql" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../marketplace/outbound/allocations/allocation_strategy/sql/q_get_site_player_asset_map.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../marketplace/outbound/allocations/allocation_strategy/sql/q_get_site_player_asset_map.sql" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../marketplace/outbound/allocations/allocation_strategy/sql/q_manual_ml_model_import.sql" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../marketplace/outbound/allocations/allocation_strategy/sql/q_select_allocations_for_flight_sov.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../marketplace/outbound/allocations/allocation_strategy/sql/q_select_allocations_for_flight_sov.sql" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../marketplace/outbound/allocations/allocation_strategy/sql/q_select_allocations_for_flight_targeted.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../marketplace/outbound/allocations/allocation_strategy/sql/q_select_allocations_for_flight_targeted.sql" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../marketplace/outbound/allocations/allocation_strategy/sql/q_update_daily_free_allocations.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../marketplace/outbound/allocations/allocation_strategy/sql/q_update_daily_free_allocations.sql" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../marketplace/outbound/allocations/allocation_strategy/sql/q_update_daily_free_allocations_sov.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../marketplace/outbound/allocations/allocation_strategy/sql/q_update_daily_free_allocations_sov.sql" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../marketplace/outbound/allocations/allocation_strategy/sql/q_update_hourly_free_allocations.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../marketplace/outbound/allocations/allocation_strategy/sql/q_update_hourly_free_allocations.sql" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../marketplace/outbound/allocations/allocation_strategy/sql/q_update_hourly_free_allocations_sov.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../marketplace/outbound/allocations/allocation_strategy/sql/q_update_hourly_free_allocations_sov.sql" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../marketplace/outbound/allocations/allocation_strategy/sql/q_update_hourly_free_totals.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../marketplace/outbound/allocations/allocation_strategy/sql/q_update_hourly_free_totals.sql" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../marketplace/outbound/allocations/allocation_strategy/sql/q_update_hourly_totals.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../marketplace/outbound/allocations/allocation_strategy/sql/q_update_hourly_totals.sql" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../marketplace/outbound/allocations/django_queries/create_frees/q_create_hourly_frees.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../marketplace/outbound/allocations/django_queries/create_frees/q_create_hourly_frees.sql" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../marketplace/outbound/allocations/django_queries/create_frees/q_create_stats_flat.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../marketplace/outbound/allocations/django_queries/create_frees/q_generate_date_hour_series_filter.sql" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../marketplace/outbound/allocations/django_queries/create_frees/q_generate_date_hour_series_postgresql.sql" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../marketplace/outbound/allocations/django_queries/create_frees/q_generate_date_hour_series_sqlite.sql" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../marketplace/outbound/allocations/django_queries/create_frees/q_generate_stats.sql" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../marketplace/outbound/allocations/django_queries/q_active_inactive_hourly_set.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../marketplace/outbound/allocations/django_queries/q_active_inactive_hourly_set.sql" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../marketplace/outbound/allocations/django_queries/q_active_inactive_hourly_unset.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../marketplace/outbound/allocations/django_queries/q_active_inactive_hourly_unset.sql" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../marketplace/outbound/allocations/django_queries/q_apply_opening_hours.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../marketplace/outbound/allocations/django_queries/q_apply_opening_hours.sql" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../marketplace/outbound/allocations/django_queries/q_calculate_hitrates.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../marketplace/outbound/allocations/django_queries/q_calculate_hitrates.sql" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../marketplace/outbound/allocations/django_queries/q_cancel_allocations_delete.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../marketplace/outbound/allocations/django_queries/q_cancel_allocations_delete.sql" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../marketplace/outbound/allocations/django_queries/q_cancel_allocations_update_daily.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../marketplace/outbound/allocations/django_queries/q_cancel_allocations_update_daily.sql" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../marketplace/outbound/allocations/django_queries/q_cancel_allocations_update_hourly.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../marketplace/outbound/allocations/django_queries/q_cancel_allocations_update_hourly.sql" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../marketplace/outbound/allocations/django_queries/q_compute_feasibility_sov.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../marketplace/outbound/allocations/django_queries/q_compute_feasibility_sov.sql" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../marketplace/outbound/allocations/django_queries/q_compute_feasibility_targeted.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../marketplace/outbound/allocations/django_queries/q_compute_feasibility_targeted.sql" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../marketplace/outbound/allocations/django_queries/q_flight_has_allocations.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../marketplace/outbound/allocations/django_queries/q_flight_has_allocations.sql" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../marketplace/outbound/allocations/django_queries/q_get_available_site_inventories.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../marketplace/outbound/allocations/django_queries/q_get_available_site_inventories_contacts.sql" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../marketplace/outbound/allocations/django_queries/q_get_available_site_inventories_sov.sql" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../marketplace/outbound/allocations/django_queries/q_get_daily_aggregated_allocations.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../marketplace/outbound/allocations/django_queries/q_get_daily_aggregated_allocations.sql" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../marketplace/outbound/allocations/django_queries/q_get_free_map.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../marketplace/outbound/allocations/django_queries/q_get_free_map.sql" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../marketplace/outbound/allocations/django_queries/q_get_hourly_aggregated_allocations.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../marketplace/outbound/allocations/django_queries/q_get_hourly_aggregated_allocations.sql" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../marketplace/outbound/allocations/django_queries/q_get_planning_report.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../marketplace/outbound/allocations/django_queries/q_get_planning_report.sql" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../marketplace/outbound/allocations/django_queries/q_recompute_daily_free.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../marketplace/outbound/allocations/django_queries/q_recompute_daily_free.sql" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../marketplace/outbound/allocations/django_queries/q_set_allocation_state.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../marketplace/outbound/allocations/django_queries/q_set_allocation_state.sql" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../marketplace/outbound/allocations/feasibility_estimation.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../marketplace/outbound/mail_service.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../marketplace/platform.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../marketplace/tasks/__init__.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../marketplace/tasks/assessment_req_res_tasks.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../marketplace/tasks/campaign_booking.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../marketplace/tasks/cms_administration.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../marketplace/tasks/create_frees.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../marketplace/tasks/playout_plans.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../marketplace/tasks/reserve_campaign.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../marketplace/tasks/update_inactive_players.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../marketplace/tasks/update_player_inventories.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../marketplace/tasks/update_service_settlement.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../marketplace/tasks/update_special_period.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../marketplace/templates/campaign_plan_reporting.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../marketplace/templates/create_client.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../marketplace/templates/create_mediaagency.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../marketplace/templates/execute_admin_tasks.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../marketplace/templates/financial_reporting.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../marketplace/templates/sage_billing_reporting.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../marketplace/templates/utilization_reporting.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../marketplace/tests/__init__.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../marketplace/tests/data/__init__.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../marketplace/tests/data/campaign_scenarios.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../marketplace/tests/data/campaign_templates.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../marketplace/tests/data/scenario.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../marketplace/tests/explorative/__init__.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../marketplace/tests/explorative/explore_allocations.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../marketplace/tests/fixtures/default-players/Basefit.csv" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../marketplace/tests/fixtures/signactive-players.csv" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../marketplace/tests/fixtures/signactive-sites.csv" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../marketplace/tests/fixtures/signactive.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../marketplace/tests/fixtures/toppharm-players.csv" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../marketplace/tests/fixtures/toppharm-sites.csv" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../marketplace/tests/fixtures/toppharm.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../marketplace/tests/given.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../marketplace/tests/helpers.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../marketplace/tests/mocks/__init__.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../marketplace/tests/mocks/advertima_simulator.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../marketplace/tests/mocks/mail_service.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../marketplace/tests/outbound/__init__.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../marketplace/tests/outbound/allocations/__init__.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../marketplace/tests/outbound/allocations/test_allocation_repo.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../marketplace/tests/outbound/allocations/test_allocation_repo_debug_tools.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../marketplace/tests/outbound/allocations/test_allocation_repo_get_sites.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../marketplace/tests/outbound/allocations/test_calculate_hitrate.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../marketplace/tests/outbound/allocations/test_fair_allocation_strategy.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../marketplace/tests/outbound/allocations/test_fair_allocation_strategy_old.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../marketplace/tests/outbound/auctions/__init__.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../marketplace/tests/outbound/auctions/test_auction_query.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../marketplace/tests/outbound/cingerine_cms_simulator.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../marketplace/tests/outbound/data/__init__.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../marketplace/tests/outbound/data/allocation_scenario.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../marketplace/tests/outbound/data/q_generate_daily_free_allocations.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../marketplace/tests/outbound/data/q_generate_hourly_free_allocations.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../marketplace/tests/outbound/data/q_update_hourly_free_allocations.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../marketplace/tests/outbound/data/sql/q_generate_daily_free.sql" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../marketplace/tests/outbound/data/sql/q_generate_date_hour_series_postgresql.sql" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../marketplace/tests/outbound/data/sql/q_generate_date_hour_series_sqlite3.sql" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../marketplace/tests/outbound/data/sql/q_generate_hourly_free.sql" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../marketplace/tests/outbound/data/sql/q_update_hourly_free.sql" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../marketplace/tests/outbound/grassfish_cms_simulator.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../marketplace/tests/outbound/test_grassfish.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../marketplace/tests/outbound/test_outbound_grassfish.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../marketplace/tests/regression/__init__.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../marketplace/tests/regression/scenarios/__init__.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../marketplace/tests/regression/scenarios/multi_host.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../marketplace/tests/regression/test_model_properties.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../marketplace/tests/regression/test_sales_channel_endpoints.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../marketplace/tests/regression/test_tenant_isolation.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../marketplace/tests/regression/test_upgrade.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../marketplace/tests/regression/test_upgrade_onboard_and_full_lifecycle.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../marketplace/tests/regression/tools/__init__.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../marketplace/tests/regression/tools/tester.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../marketplace/tests/sc2/__init__.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../marketplace/tests/sc2/impl.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../marketplace/tests/test_adjust_allocations.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../marketplace/tests/test_assessment_request.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../marketplace/tests/test_billing_reporting.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../marketplace/tests/test_cms_administration.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../marketplace/tests/test_cms_service_factory.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../marketplace/tests/test_cms_service_simulator.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../marketplace/tests/test_create_campaign.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../marketplace/tests/test_create_inventory_command.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../marketplace/tests/test_dashboard_endpoints.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../marketplace/tests/test_demonstrate_scenario2.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../marketplace/tests/test_django_raw.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../marketplace/tests/test_financial_reporting.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../marketplace/tests/test_flight_progress.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../marketplace/tests/test_flight_steering_lifecycle.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../marketplace/tests/test_full_lifecycle.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../marketplace/tests/test_initital_data.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../marketplace/tests/test_inventory_availability.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../marketplace/tests/test_inventory_booking_usecase.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../marketplace/tests/test_manage_campaign.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../marketplace/tests/test_middleware.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../marketplace/tests/test_onboard_publisher_command.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../marketplace/tests/test_opening_hours_use_case.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../marketplace/tests/test_owner_aware.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../marketplace/tests/test_player_inactivity.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../marketplace/tests/test_published_inventory.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../marketplace/tests/test_sendgrid_api.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../marketplace/tests/test_service_factory.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../marketplace/tests/test_service_settlement.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../marketplace/tests/test_statistics_models.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../marketplace/tests/test_user_profile.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../marketplace/urls.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../marketplace/usecases/__init__.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../marketplace/usecases/anonymous_access.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../marketplace/usecases/assessment_req.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../marketplace/usecases/assessment_res.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../marketplace/usecases/auctions.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../marketplace/usecases/billing_reporting.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../marketplace/usecases/campaign_functions.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../marketplace/usecases/campaign_steering.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../marketplace/usecases/cms_administration.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../marketplace/usecases/daily_workloads.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../marketplace/usecases/dashboard.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../marketplace/usecases/exceptions.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../marketplace/usecases/financial_reporting.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../marketplace/usecases/inventory_availability.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../marketplace/usecases/manage_inventory.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../marketplace/usecases/player_inactivity.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../marketplace/usecases/player_opening_hours.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../marketplace/usecases/playout_plans.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../marketplace/usecases/service_settlement.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../marketplace/usecases/sql/__init__.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../marketplace/usecases/sql/q_adjust_allocation_frees.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../marketplace/usecases/sql/q_adjust_allocation_frees.sql" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../marketplace/usecases/sql/q_adjust_allocations.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../marketplace/usecases/sql/q_adjust_allocations.sql" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../marketplace/usecases/sql/q_adjust_service_settlements_price.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../marketplace/usecases/sql/q_adjust_service_settlements_price.sql" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../marketplace/usecases/sql/q_calculate_hitrates.sql" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../marketplace/usecases/sql/q_compute_service_settlements.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../marketplace/usecases/sql/q_compute_service_settlements.sql" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../marketplace/usecases/sql/q_find_successful_flights.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../marketplace/usecases/sql/q_find_successful_flights.sql" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../marketplace/usecases/sql/q_get_adjustable_flights.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../marketplace/usecases/sql/q_get_adjustable_flights.sql" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../marketplace/usecases/sql/q_get_flight_progress.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../marketplace/usecases/sql/q_get_flight_progress.sql" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../marketplace/usecases/sql/q_get_playout_plan.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../marketplace/usecases/sql/q_get_playout_plan.sql" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../marketplace/usecases/user_profile.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../marketplace/utils.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../marketplace/views.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../ops/__init__.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../ops/admin.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../ops/apps.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../ops/forms.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../ops/templates/onboard_publisher.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../ops/tests/__init__.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../ops/tests/fixtures/default-players/Basefit.csv" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../ops/tests/fixtures/signactive-players.csv" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../ops/tests/fixtures/signactive-sites.csv" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../ops/tests/fixtures/toppharm-players.csv" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../ops/tests/fixtures/toppharm-sites.csv" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../ops/tests/test_onboard_publisher_api.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../outbound/__init__.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../outbound/cingerine/__init__.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../outbound/cingerine/cms.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../outbound/grassfish/__init__.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../outbound/grassfish/schema.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../outbound/rest.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../outbound/tools.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../platformusers/__init__.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../platformusers/admin.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../platformusers/apps.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../platformusers/serializers.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../platformusers/tests/__init__.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../platformusers/tests/test_businessrole_endpoints.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../platformusers/tests/test_password_endpoints.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../platformusers/tests/test_platformusers_endpoints.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../platformusers/urls.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../platformusers/views.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../publishers/__init__.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../publishers/apps.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../publishers/platform.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../publishers/serializers.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../publishers/tests/__init__.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../publishers/tests/fixtures/corrupt_image.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../publishers/tests/fixtures/spar_site.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../publishers/tests/sc2/__init__.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../publishers/tests/sc2/impl.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../publishers/tests/sc2/publisher_spec.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../publishers/tests/sc2/utilities.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../publishers/tests/test_image_upload.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../publishers/tests/test_network_endpoints.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../publishers/tests/test_network_management.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../publishers/tests/test_site_management.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../publishers/tests/test_sites_endpoints.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../publishers/urls.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../publishers/usecases/__init__.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../publishers/usecases/network_management.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../publishers/usecases/site_management.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../publishers/views.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../rmmigs.sh" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../run.sh" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../ssp/__init__.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../ssp/admin.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../ssp/apps.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../ssp/management/commands/create_inventory.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../ssp/management/commands/import_players.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../ssp/management/commands/import_sites.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../ssp/management/commands/import_special_periods.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../ssp/management/helpers.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../ssp/migrations/0001_initial.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../ssp/migrations/0002_auto_20200721_1108.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../ssp/migrations/0003_auto_20200818_1354.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../ssp/migrations/0004_auto_20201007_1038.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../ssp/migrations/0005_auto_20210322_1343.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../ssp/migrations/0006_auto_20210607_1231.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../ssp/migrations/__init__.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../ssp/models.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../ssp/outbound/__init__.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../ssp/outbound/cms.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../ssp/outbound/grassfish.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../ssp/platform.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../ssp/serializers_outgoing.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../ssp/tests/__init__.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../ssp/tests/data/Sites.csv" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../ssp/tests/data/players_invalid_site.csv" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../ssp/tests/data/players_missing_id.csv" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../ssp/tests/data/players_valid.csv" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../ssp/tests/data/players_valid_2.csv" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../ssp/tests/data/poi_special_periods_valid.csv" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../ssp/tests/data/site_name_special_periods_valid.csv" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../ssp/tests/data/special_periods_invalid.csv" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../ssp/tests/given.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../ssp/tests/test_gfplayer_serializer.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../ssp/tests/test_grassfish_booking.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../ssp/tests/test_import_players_command.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../ssp/tests/test_import_sites_command.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../ssp/tests/test_import_special_periods_command.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../ssp/tests/test_models.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../ssp/tests/test_opening_hours_strategy.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../ssp/tests/test_rest_resilience.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../ssp/tests/test_site_usecases.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../ssp/usecases/__init__.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../ssp/usecases/publisher_usecases.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../tenants/__init__.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../tenants/admin.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../tenants/apps.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../tenants/platform.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../tenants/serializers.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../tenants/tests/__init__.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../tenants/tests/test_client_usecase.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../tenants/urls.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../tenants/usecases/__init__.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../tenants/usecases/client.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../tenants/views.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../usermgmt/__init__.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../usermgmt/admin.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../usermgmt/apps.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../usermgmt/decorators.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../usermgmt/forms.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../usermgmt/management/__init__.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../usermgmt/management/commands/__init__.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../usermgmt/management/commands/initial_fixtures/adserver.Asset.csv" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../usermgmt/management/commands/initial_fixtures/application.Assessmentrequest.csv" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../usermgmt/management/commands/initial_fixtures/application.Assessmentresponse.csv" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../usermgmt/management/commands/initial_fixtures/application.PlayerInventory.csv" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../usermgmt/management/commands/initial_fixtures/application.SiteInventory.csv" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../usermgmt/management/commands/initial_fixtures/auth.Permission.csv" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../usermgmt/management/commands/initial_fixtures/common.SalesChannel.csv" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../usermgmt/management/commands/initial_fixtures/dsp.Campaign.csv" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../usermgmt/management/commands/initial_fixtures/dsp.Client.csv" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../usermgmt/management/commands/initial_fixtures/dsp.Flight.csv" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../usermgmt/management/commands/initial_fixtures/dsp.MediaAgency.csv" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../usermgmt/management/commands/initial_fixtures/usermgmt.User.csv" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../usermgmt/management/commands/resource_access.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../usermgmt/middleware.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../usermgmt/migrations/0001_initial.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../usermgmt/migrations/0002_auto_20210114_0931.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../usermgmt/migrations/__init__.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../usermgmt/models.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../usermgmt/serializers.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../usermgmt/tests/__init__.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../usermgmt/tests/test_access.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../usermgmt/tests/test_decorators.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../usermgmt/tests/test_legal_entities.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../usermgmt/tests/test_middleware.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../usermgmt/tests/test_resource_access.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../usermgmt/tests/test_user_manager.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../usermgmt/tests/test_view.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../usermgmt/urls.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../usermgmt/views.py" beforeDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/../.." />
+  </component>
+  <component name="MarkdownSettingsMigration">
+    <option name="stateVersion" value="1" />
+  </component>
+  <component name="ProjectId" id="25MssaZitmC1XFNs3hioGPYfTaW" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/src/main/resources" />
+    <property name="project.structure.last.edited" value="Modules" />
+    <property name="project.structure.proportion" value="0.15" />
+    <property name="project.structure.side.proportion" value="0.2" />
+  </component>
+  <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="C:\Users\Swaraj\Desktop\New folder (4)\RankingPoints\src\main\resources" />
+    </key>
+    <key name="CopyClassDialog.RECENTS_KEY">
+      <recent name="" />
+    </key>
+  </component>
+  <component name="RunManager" selected="JUnit.FootballTeamTest.getPoints">
+    <configuration name="FootballTeamTest.getPoints" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="RankingPoints" />
+      <option name="PACKAGE_NAME" value="" />
+      <option name="MAIN_CLASS_NAME" value="FootballTeamTest" />
+      <option name="METHOD_NAME" value="getPoints" />
+      <option name="TEST_OBJECT" value="method" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="FootballTeamTest.getTeamName" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="RankingPoints" />
+      <option name="PACKAGE_NAME" value="" />
+      <option name="MAIN_CLASS_NAME" value="FootballTeamTest" />
+      <option name="METHOD_NAME" value="getTeamName" />
+      <option name="TEST_OBJECT" value="method" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="JUnit.FootballTeamTest.getPoints" />
+        <item itemvalue="JUnit.FootballTeamTest.getTeamName" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="8d01c9e3-fcc8-4ba7-9b78-d9a2be23693f" name="Changes" comment="" />
+      <created>1645348497225</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1645348497225</updated>
+    </task>
+    <servers />
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State />
+          </value>
+        </entry>
+      </map>
+    </option>
+  </component>
+</project>
