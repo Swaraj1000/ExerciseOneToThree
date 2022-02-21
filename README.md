@@ -4,10 +4,10 @@ Program by creating an 'Employee' class having the following methods and print t
 
 ## Features 
 
-1 - 'getInfo()' which takes the hourly salary, number of hours of work per day of employee as parameter 
-2 - 'computeBaseSalary()' which computes the base salary for 20 days of work 
-3 - 'addSal()' which adds $10 to the base salary of the employee if it is less than $500. 
-4 - 'addWork()' which adds $5 daily to salary of employee if the number of hours of work per day is more than 6 hours. 
+1. 'getInfo()' which takes the hourly salary, number of hours of work per day of employee as parameter 
+2. 'computeBaseSalary()' which computes the base salary for 20 days of work 
+3. 'addSal()' which adds $10 to the base salary of the employee if it is less than $500. 
+4. 'addWork()' which adds $5 daily to salary of employee if the number of hours of work per day is more than 6 hours.
 
 ## Run Program
 Run Main.java for output from com.company package
